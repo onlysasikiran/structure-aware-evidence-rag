@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "structure-aware-evidence-rag"
+version = "0.1.0"
+description = "Reproducible comparison of chunk and structure-complete evidence delivery"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+evidence-rag = "rag_evidence.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["rag_evidence*"]
