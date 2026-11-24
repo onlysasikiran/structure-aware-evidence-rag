@@ -1,0 +1,56 @@
+{"id": "q01", "kind": "table", "question": "What is the Monthly refund limit for Basic?", "source": "refunds.html", "field": "Monthly refund limit", "entity": "Basic", "answer": "INR 500"}
+{"id": "q02", "kind": "table", "question": "What is the Annual refund limit for Basic?", "source": "refunds.html", "field": "Annual refund limit", "entity": "Basic", "answer": "INR 5,000"}
+{"id": "q03", "kind": "table", "question": "What is the Monthly refund limit for Plus?", "source": "refunds.html", "field": "Monthly refund limit", "entity": "Plus", "answer": "INR 750"}
+{"id": "q04", "kind": "table", "question": "What is the Annual refund limit for Plus?", "source": "refunds.html", "field": "Annual refund limit", "entity": "Plus", "answer": "INR 7,500"}
+{"id": "q05", "kind": "table", "question": "What is the Monthly refund limit for Premium?", "source": "refunds.html", "field": "Monthly refund limit", "entity": "Premium", "answer": "INR 1,000"}
+{"id": "q06", "kind": "table", "question": "What is the Annual refund limit for Premium?", "source": "refunds.html", "field": "Annual refund limit", "entity": "Premium", "answer": "INR 10,000"}
+{"id": "q07", "kind": "table", "question": "What is the Monthly refund limit for Enterprise?", "source": "refunds.html", "field": "Monthly refund limit", "entity": "Enterprise", "answer": "INR 2,500"}
+{"id": "q08", "kind": "table", "question": "What is the Annual refund limit for Enterprise?", "source": "refunds.html", "field": "Annual refund limit", "entity": "Enterprise", "answer": "INR 25,000"}
+{"id": "q09", "kind": "table", "question": "What is the Standard delivery for North?", "source": "shipping.html", "field": "Standard delivery", "entity": "North", "answer": "5 business days"}
+{"id": "q10", "kind": "table", "question": "What is the Express delivery for North?", "source": "shipping.html", "field": "Express delivery", "entity": "North", "answer": "2 business days"}
+{"id": "q11", "kind": "table", "question": "What is the Standard delivery for South?", "source": "shipping.html", "field": "Standard delivery", "entity": "South", "answer": "4 business days"}
+{"id": "q12", "kind": "table", "question": "What is the Express delivery for South?", "source": "shipping.html", "field": "Express delivery", "entity": "South", "answer": "1 business day"}
+{"id": "q13", "kind": "table", "question": "What is the Standard delivery for East?", "source": "shipping.html", "field": "Standard delivery", "entity": "East", "answer": "6 business days"}
+{"id": "q14", "kind": "table", "question": "What is the Express delivery for East?", "source": "shipping.html", "field": "Express delivery", "entity": "East", "answer": "3 business days"}
+{"id": "q15", "kind": "table", "question": "What is the Standard delivery for West?", "source": "shipping.html", "field": "Standard delivery", "entity": "West", "answer": "3 business days"}
+{"id": "q16", "kind": "table", "question": "What is the Express delivery for West?", "source": "shipping.html", "field": "Express delivery", "entity": "West", "answer": "1 business day"}
+{"id": "q17", "kind": "table", "question": "What is the Acknowledgement deadline for SEV1?", "source": "incidents.html", "field": "Acknowledgement deadline", "entity": "SEV1", "answer": "10 minutes"}
+{"id": "q18", "kind": "table", "question": "What is the Status update interval for SEV1?", "source": "incidents.html", "field": "Status update interval", "entity": "SEV1", "answer": "20 minutes"}
+{"id": "q19", "kind": "table", "question": "What is the Acknowledgement deadline for SEV2?", "source": "incidents.html", "field": "Acknowledgement deadline", "entity": "SEV2", "answer": "30 minutes"}
+{"id": "q20", "kind": "table", "question": "What is the Status update interval for SEV2?", "source": "incidents.html", "field": "Status update interval", "entity": "SEV2", "answer": "60 minutes"}
+{"id": "q21", "kind": "table", "question": "What is the Acknowledgement deadline for SEV3?", "source": "incidents.html", "field": "Acknowledgement deadline", "entity": "SEV3", "answer": "2 hours"}
+{"id": "q22", "kind": "table", "question": "What is the Status update interval for SEV3?", "source": "incidents.html", "field": "Status update interval", "entity": "SEV3", "answer": "4 hours"}
+{"id": "q23", "kind": "table", "question": "What is the Acknowledgement deadline for SEV4?", "source": "incidents.html", "field": "Acknowledgement deadline", "entity": "SEV4", "answer": "1 business day"}
+{"id": "q24", "kind": "table", "question": "What is the Status update interval for SEV4?", "source": "incidents.html", "field": "Status update interval", "entity": "SEV4", "answer": "2 business days"}
+{"id": "q25", "kind": "table", "question": "What is the Active storage for Billing logs?", "source": "retention.html", "field": "Active storage", "entity": "Billing logs", "answer": "90 days"}
+{"id": "q26", "kind": "table", "question": "What is the Archive storage for Billing logs?", "source": "retention.html", "field": "Archive storage", "entity": "Billing logs", "answer": "7 years"}
+{"id": "q27", "kind": "table", "question": "What is the Active storage for Access logs?", "source": "retention.html", "field": "Active storage", "entity": "Access logs", "answer": "30 days"}
+{"id": "q28", "kind": "table", "question": "What is the Archive storage for Access logs?", "source": "retention.html", "field": "Archive storage", "entity": "Access logs", "answer": "1 year"}
+{"id": "q29", "kind": "table", "question": "What is the Active storage for Support chats?", "source": "retention.html", "field": "Active storage", "entity": "Support chats", "answer": "60 days"}
+{"id": "q30", "kind": "table", "question": "What is the Archive storage for Support chats?", "source": "retention.html", "field": "Archive storage", "entity": "Support chats", "answer": "2 years"}
+{"id": "q31", "kind": "table", "question": "What is the Active storage for Audit events?", "source": "retention.html", "field": "Active storage", "entity": "Audit events", "answer": "180 days"}
+{"id": "q32", "kind": "table", "question": "What is the Archive storage for Audit events?", "source": "retention.html", "field": "Archive storage", "entity": "Audit events", "answer": "5 years"}
+{"id": "q33", "kind": "list", "question": "What is the Daily meal allowance for Domestic?", "source": "travel.html", "field": "Daily meal allowance", "entity": "Domestic", "answer": "INR 1,200"}
+{"id": "q34", "kind": "list", "question": "What is the Hotel nightly cap for Domestic?", "source": "travel.html", "field": "Hotel nightly cap", "entity": "Domestic", "answer": "INR 5,000"}
+{"id": "q35", "kind": "list", "question": "What is the Taxi reimbursement cap for Domestic?", "source": "travel.html", "field": "Taxi reimbursement cap", "entity": "Domestic", "answer": "INR 800"}
+{"id": "q36", "kind": "list", "question": "What is the Approval lead time for Domestic?", "source": "travel.html", "field": "Approval lead time", "entity": "Domestic", "answer": "2 business days"}
+{"id": "q37", "kind": "list", "question": "What is the Daily meal allowance for International?", "source": "travel.html", "field": "Daily meal allowance", "entity": "International", "answer": "USD 70"}
+{"id": "q38", "kind": "list", "question": "What is the Hotel nightly cap for International?", "source": "travel.html", "field": "Hotel nightly cap", "entity": "International", "answer": "USD 180"}
+{"id": "q39", "kind": "list", "question": "What is the Taxi reimbursement cap for International?", "source": "travel.html", "field": "Taxi reimbursement cap", "entity": "International", "answer": "USD 45"}
+{"id": "q40", "kind": "list", "question": "What is the Approval lead time for International?", "source": "travel.html", "field": "Approval lead time", "entity": "International", "answer": "10 business days"}
+{"id": "q41", "kind": "list", "question": "What is the Credential rotation interval for Employees?", "source": "access.html", "field": "Credential rotation interval", "entity": "Employees", "answer": "180 days"}
+{"id": "q42", "kind": "list", "question": "What is the Access review interval for Employees?", "source": "access.html", "field": "Access review interval", "entity": "Employees", "answer": "90 days"}
+{"id": "q43", "kind": "list", "question": "What is the Account closure deadline for Employees?", "source": "access.html", "field": "Account closure deadline", "entity": "Employees", "answer": "24 hours"}
+{"id": "q44", "kind": "list", "question": "What is the Recovery verification window for Employees?", "source": "access.html", "field": "Recovery verification window", "entity": "Employees", "answer": "30 minutes"}
+{"id": "q45", "kind": "list", "question": "What is the Credential rotation interval for Contractors?", "source": "access.html", "field": "Credential rotation interval", "entity": "Contractors", "answer": "30 days"}
+{"id": "q46", "kind": "list", "question": "What is the Access review interval for Contractors?", "source": "access.html", "field": "Access review interval", "entity": "Contractors", "answer": "14 days"}
+{"id": "q47", "kind": "list", "question": "What is the Account closure deadline for Contractors?", "source": "access.html", "field": "Account closure deadline", "entity": "Contractors", "answer": "4 hours"}
+{"id": "q48", "kind": "list", "question": "What is the Recovery verification window for Contractors?", "source": "access.html", "field": "Recovery verification window", "entity": "Contractors", "answer": "15 minutes"}
+{"id": "q49", "kind": "prose", "question": "What is the SSO session timeout?", "source": "operations.html", "field": "SSO session timeout", "entity": "", "answer": "30 minutes"}
+{"id": "q50", "kind": "prose", "question": "What is the API request timeout?", "source": "operations.html", "field": "API request timeout", "entity": "", "answer": "45 seconds"}
+{"id": "q51", "kind": "prose", "question": "What is the Backup verification cadence?", "source": "operations.html", "field": "Backup verification cadence", "entity": "", "answer": "1 week"}
+{"id": "q52", "kind": "prose", "question": "What is the Certificate renewal notice?", "source": "operations.html", "field": "Certificate renewal notice", "entity": "", "answer": "60 days"}
+{"id": "q53", "kind": "prose", "question": "What is the Deployment freeze window?", "source": "operations.html", "field": "Deployment freeze window", "entity": "", "answer": "12 hours"}
+{"id": "q54", "kind": "prose", "question": "What is the Support escalation deadline?", "source": "operations.html", "field": "Support escalation deadline", "entity": "", "answer": "2 hours"}
+{"id": "q55", "kind": "prose", "question": "What is the Health check interval?", "source": "operations.html", "field": "Health check interval", "entity": "", "answer": "5 minutes"}
+{"id": "q56", "kind": "prose", "question": "What is the Audit report cadence?", "source": "operations.html", "field": "Audit report cadence", "entity": "", "answer": "1 month"}
