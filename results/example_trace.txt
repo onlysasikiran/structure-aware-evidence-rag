@@ -1,0 +1,63 @@
+Question: What is the Monthly refund limit for Premium?
+Expected: INR 1,000
+
+=== CHUNK (58 estimated tokens) ===
+Answer: [abstained]
+[refunds.html#chunk-1]
+Subscription | Monthly refund limit | Annual refund limit
+Basic | INR 500 | INR 5,000
+
+[refunds.html#chunk-0]
+Subscription Refund Policy
+Refund limits
+Refund caps by subscription
+
+[refunds.html#chunk-2]
+Plus | INR 750 | INR 7,500
+Premium | INR 1,000 | INR 10,000
+Enterprise | INR 2,500 | INR 25,000
+
+=== EXPANDED (85 estimated tokens) ===
+Answer: INR 1,000
+[refunds.html#neighbors-1]
+Subscription Refund Policy
+Refund limits
+Refund caps by subscription
+Subscription | Monthly refund limit | Annual refund limit
+Basic | INR 500 | INR 5,000
+Plus | INR 750 | INR 7,500
+Premium | INR 1,000 | INR 10,000
+Enterprise | INR 2,500 | INR 25,000
+
+[refunds.html#neighbors-0]
+Subscription Refund Policy
+Refund limits
+Refund caps by subscription
+Subscription | Monthly refund limit | Annual refund limit
+Basic | INR 500 | INR 5,000
+
+=== COMPLETE (98 estimated tokens) ===
+Answer: INR 1,000
+[refunds.html#u3]
+Document: Subscription Refund Policy
+Section: Refund limits
+Table: Refund caps by subscription
+Subscription: Premium
+Monthly refund limit: INR 1,000
+Annual refund limit: INR 10,000
+
+[refunds.html#u1]
+Document: Subscription Refund Policy
+Section: Refund limits
+Table: Refund caps by subscription
+Subscription: Basic
+Monthly refund limit: INR 500
+Annual refund limit: INR 5,000
+
+[refunds.html#u2]
+Document: Subscription Refund Policy
+Section: Refund limits
+Table: Refund caps by subscription
+Subscription: Plus
+Monthly refund limit: INR 750
+Annual refund limit: INR 7,500

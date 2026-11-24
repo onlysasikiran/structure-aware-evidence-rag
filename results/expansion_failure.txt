@@ -1,0 +1,75 @@
+Question: What is the Taxi reimbursement cap for International?
+Expected: USD 45
+
+=== CHUNK (52 estimated tokens) ===
+Answer: INR 800
+[travel.html#chunk-1]
+Taxi reimbursement cap: INR 800
+Approval lead time: 2 business days
+International
+
+[travel.html#chunk-2]
+Daily meal allowance: USD 70
+Hotel nightly cap: USD 180
+Taxi reimbursement cap: USD 45
+
+[travel.html#chunk-0]
+Employee Travel Handbook
+Domestic
+Daily meal allowance: INR 1,200
+Hotel nightly cap: INR 5,000
+
+=== EXPANDED (91 estimated tokens) ===
+Answer: INR 800
+[travel.html#neighbors-1]
+Employee Travel Handbook
+Domestic
+Daily meal allowance: INR 1,200
+Hotel nightly cap: INR 5,000
+Taxi reimbursement cap: INR 800
+Approval lead time: 2 business days
+International
+Daily meal allowance: USD 70
+Hotel nightly cap: USD 180
+Taxi reimbursement cap: USD 45
+
+[travel.html#neighbors-2]
+Taxi reimbursement cap: INR 800
+Approval lead time: 2 business days
+International
+Daily meal allowance: USD 70
+Hotel nightly cap: USD 180
+Taxi reimbursement cap: USD 45
+Approval lead time: 10 business days
+
+=== COMPLETE (87 estimated tokens) ===
+Answer: USD 45
+[travel.html#u7]
+Document: Employee Travel Handbook
+Section: International
+Taxi reimbursement cap: USD 45
+
+[travel.html#u3]
+Document: Employee Travel Handbook
+Section: Domestic
+Taxi reimbursement cap: INR 800
+
+[travel.html#u6]
+Document: Employee Travel Handbook
+Section: International
+Hotel nightly cap: USD 180
+
+[travel.html#u2]
+Document: Employee Travel Handbook
+Section: Domestic
+Hotel nightly cap: INR 5,000
+
+[travel.html#u5]
+Document: Employee Travel Handbook
+Section: International
+Daily meal allowance: USD 70
+
+[travel.html#u8]
+Document: Employee Travel Handbook
+Section: International
+Approval lead time: 10 business days
